@@ -1,0 +1,13 @@
+{
+  "name": "ts-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "2.1.0",
+    "@tensorflow/tfjs-node": "2.3.0",
+    "@tensorflow/tfjs-backend-cpu": "2.0.1",
+    "canvas": "2.6.1",
+    "stats.js": "^0.17.0"
+  }
+}
