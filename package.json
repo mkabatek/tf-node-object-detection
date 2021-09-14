@@ -4,10 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow-models/coco-ssd": "2.1.0",
-    "@tensorflow/tfjs-node": "2.3.0",
-    "@tensorflow/tfjs-backend-cpu": "2.0.1",
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^3.9.0",
+    "@tensorflow/tfjs-backend-cpu": "^3.9.0",
+    "@tensorflow/tfjs-node": "^3.9.0",
     "canvas": "2.6.1",
+    "node-fetch": "2.6.1",
     "stats.js": "^0.17.0"
   }
 }
